@@ -1,6 +1,7 @@
 # html_question_paper
 HTML Question Paper in HTML
 
+All resources present in resources directory
 Page Url
 https://indiaprint.in/shop/question-papers-answer-sheets/exam-paper-printing-a5-question-paper-half-of-a4-question-paper-test/
 
